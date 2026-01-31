@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔥Front-end web developer & focused on become a full-stack js/ts<br>🔭 I’m currently working on Soforx  <br>🌱 I’m currently learning  Node.JS <br>💬 Ask me about JavaScript, TypeScript ,HTML, CSS, Angular <br>⚡ Fun fact I love Cats <br>
+ 🔥Front-end web developer & focused on become a full-stack js/ts<br>🔭 I’m currently working on Acutive  <br>🌱 I’m currently learning  Node.JS <br>💬 Ask me about JavaScript, TypeScript ,HTML, CSS, Angular <br>⚡ Fun fact I love Cats <br>
 
 
 ## 🌐 Socials:
